@@ -25,7 +25,7 @@ Visualisation sur un smartphone
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://sandrinependa.github.io/qr-code-component/)
+- Live Site URL: [https://sandrinependa.github.io/qr-code-component/](https://sandrinependa.github.io/qr-code-component/)
 
 ## My process
 
@@ -34,8 +34,7 @@ I drew and cut out the model on a piece of paper, mentioning the semantic tag fo
 ### Built with
 
 - Semantic HTML5 markup
-- CSS3 : BEM class names & custom properties
-- Flexbox
+- CSS3 : BEM class names, custom properties & flexbox
 
 ### What I learned
 
@@ -53,4 +52,4 @@ For the next projects, I expect to implement the using of preprocessor as Sass.
 
 ## Author
 
-- Frontend Mentor - [@SandrinePENDA](https://www.frontendmentor.io/profile/SandrinePENDA)
+- Frontend Member - [@SandrinePENDA](https://www.frontendmentor.io/profile/SandrinePENDA)
