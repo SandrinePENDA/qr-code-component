@@ -1,11 +1,11 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,22 +13,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### Screenshot
-
+### Screenshots
+Visualisation sur un laptop
 ![](./screenshot-desktop.png)
 
+Visualisation sur un smartphone
 ![](screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sandrinependa.github.io/qr-code-component/)
 
 ## My process
 
@@ -37,12 +34,12 @@ I drew and cut out the model on a piece of paper, mentioning the semantic tag fo
 ### Built with
 
 - Semantic HTML5 markup
-- CSS3 custom properties
+- CSS3 : BEM class names & custom properties
 - Flexbox
 
 ### What I learned
 
-It is not something new, but **I really appreciate to integrate! :)**
+I've learnt to use my eyes to assess measurements and distances between elements. I integrated this model **without using the Sketch files.**
 
 ### Continued development
 
@@ -57,4 +54,3 @@ For the next projects, I expect to implement the using of preprocessor as Sass.
 ## Author
 
 - Frontend Mentor - [@SandrinePENDA](https://www.frontendmentor.io/profile/SandrinePENDA)
-- LinkedIn - [@sandrine-penda](https://www.linkedin.com/in/sandrine-penda)
